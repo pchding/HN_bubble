@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## News Bubble
 
-You can use the [editor on GitHub](https://github.com/pchding/HN_bubble/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most recommendation engines try to discover users' preferences to give them the content that is similar to what they already like. This practice has created the so called "Filter Bubble", which separate users from information that disagrees with their viewpoints, and effectively isolate them in their own cultural or ideological bubbles. Here, I propose a new kind of recommendation engine that aims to find things that are abnormal to the conventional 
 
 ### Markdown
 
