@@ -14,6 +14,8 @@ Hacker News database is acquired through BigQuery Api. I use 6 years of posts fr
 
 Text is first cleaned to remove punctuations and stopwords. It is also lemminated with wordnet lemminiazer. Different from previous analysis, I have also included linked external url for the analysis.  Also I only included the main domain name (like bbc, bloombery) in the text. As can be seen from the plot, the top referenced websites have many differences with each other, some are general news site, some are open source repos, some are focused on entrepreneurship, and some on consumer electronics. I believe including these site names will help for the topic modelling, since many of these websites focus on a sub set of topics.
 
+![topics](/images/topsites.png)
+
 In th first model I set the number of topics to 15. Results can be seen in the following graph.
 
 {% include lda.html %}
