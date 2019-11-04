@@ -14,4 +14,6 @@ Hacker News database is acquired through BigQuery Api. I use 6 years of posts fr
 
 Text is first cleaned to remove punctuations and stopwords. It is also lemminated with wordnet lemminiazer. Dif
 
+{% include lda.html %}
+
 ### Auto-encoder Recommendation
