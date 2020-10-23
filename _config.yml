@@ -1,4 +1,4 @@
-title: Outside the Bubble
-description: Autoencoder based recommendation engine for Hacker News posts
+title: HackerNews Topic Modeling and Unusual Posts Recommendation
+description: LDA and BERT embeddings for topic classification and Autoencoder models for unusual post detection
 show_downloads: false
 theme: jekyll-theme-dinky
